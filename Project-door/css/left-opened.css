@@ -1,0 +1,125 @@
+body{
+    background-color:black ;
+}
+.div1{
+    border: 3px rgb(253, 19, 19) solid;
+    height  : 800px;
+    margin-left: 600px;
+    margin-right: 700px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background-color: rgb(196, 225, 217);
+}
+#sec1{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-bottom: 760px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    animation: example;
+    animation-duration: 10s;
+}
+@keyframes example{
+    20%   {background-color: rgb(243, 129, 229);}
+    30%  {background-color: rgb(251, 0, 255);}
+    35%  {background-color: brown;}
+    40%  {background-color: rgba(43, 255, 0, 0.94);}
+    100% {background-color: green;}
+}
+
+#nav1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-bottom: 708px;
+    float: left;
+    width: 45%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(15, 18, 18);
+    
+}
+#aside1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-bottom: 87px;
+    float: left;
+    width: 45%;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: rgb(13, 134, 134);
+}
+#div6{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: 75px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    background-color: rgb(190, 44, 44);
+}
+#div7{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: 75px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    background-color: rgb(190, 44, 44);
+}
+
+#div8{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: -100px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    background-color: rgb(190, 44, 44);
+}
+
+#div9{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: 75px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    background-color: rgb(190, 44, 44);
+}
+
+#div10{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: 75px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    background-color: rgb(190, 44, 44);
+}
+#image2{
+    height: 70px;  
+    margin-left: -245px; 
+    margin-top: 5px;
+   }
+#span1{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-bottom: 708px;
+    margin-left: -200px;
+    margin-top: 500px;
+    margin-right: 90px;
+    background-color:  rgb(13, 134, 134);
+}
+#image2:hover{
+    margin-left: -240px; 
+    margin-top: 5px;
+}
